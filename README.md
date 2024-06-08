@@ -1,6 +1,6 @@
 # Jimkoutsocustombgtest
 
-Yea this stuff "WAS" cool lol (NOTE: It has been patched. To see what it actually was supposed to do check out these archives of different repos/profiles implementing this exploit when it was patched (Also I am aware this could have been used for malicious purposes but all i will have is just "haha funny gif as background"))
+Yea this stuff "WAS" cool lol (NOTE: It has been patched. To see what it actually was supposed to do check out these archives of different repos/profiles implementing this exploit when it wasn't patched (Also I am aware this could have been used for malicious purposes but all i will have is just "haha funny gif as background"))
 
 This repo: https://web.archive.org/web/20240607211040/https://github.com/jimkoutso2008/Jimkoutsocustombgtest
 
